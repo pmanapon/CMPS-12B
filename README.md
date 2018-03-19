@@ -1,0 +1,2 @@
+# CMPS-12B
+CMPS-12B Winter 2018 UCSC
